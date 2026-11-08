@@ -1,5 +1,7 @@
 # Telegram AI Bot
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dos1k77/telegram-ai-bot/blob/main/demo.ipynb)
+
 A Telegram chatbot powered by the Google Gemini API. It remembers the last 10
 exchanges per chat, answers in the user's language (Kazakh / Russian / English)
 and has `/start` and `/reset` commands.
